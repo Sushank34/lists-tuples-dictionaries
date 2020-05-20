@@ -1,0 +1,5 @@
+tup=(34,"hey",'I',6)
+print(tup)
+print(tup[:2])
+print(tup[2:])
+print(tup[2:3])
